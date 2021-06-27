@@ -1,12 +1,12 @@
 [[main]]
   name = "Home"
   url = ""
-  weight = -110
+  weight = -111
 
 [[main]]
   name = "Development"
   url = "post/development/"
-  weight = -109
+  weight = -110
 
 [[main]]
   name = "Pixel"
