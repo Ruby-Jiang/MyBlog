@@ -11,4 +11,4 @@ thumbnail = "images/cousin.png"
 
 A fantasy visualization of my dear cousin.
 
-![::img-medium](images/cousin.png)
+![Clarity Hugo Theme](https://github.com/Ruby-Jiang/myBlog/images/cousin.png))
