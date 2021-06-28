@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aseprite on Xi Jiang</title>
+    <link>https://example.com/tags/aseprite/</link>
+    <description>Recent content in Aseprite on Xi Jiang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Mon, 10 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/aseprite/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My pixel practice 212 x 153 pixels and 32 frames gif</title>
+      <link>https://example.com/post/aseprite/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/aseprite/</guid>
+      <description>
+        
+          &lt;p&gt;A fantasy visualization of my dear cousin.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../../images/cousin.gif&#34; width=&#34;600&#34; /&gt;&lt;/p&gt;
+&lt;!-- ![::img-medium](../../images/cousin.gif) --&gt;
+&lt;p&gt;Set different layer and frame in Aseprite.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../../images/asepriteUI.png&#34; width=&#34;600&#34; /&gt;&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

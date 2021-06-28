@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Database on Xi Jiang</title>
+    <link>https://example.com/tags/database/</link>
+    <description>Recent content in Database on Xi Jiang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Mon, 28 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/database/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Maze game and BFS(Leetcode #490 #505)</title>
+      <link>https://example.com/post/development/maze-leetcode/</link>
+      <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/development/maze-leetcode/</guid>
+      <description>
+        
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>InnoDB storage engine basic architecture review</title>
+      <link>https://example.com/post/development/mysql-innodb/</link>
+      <pubDate>Sun, 27 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/development/mysql-innodb/</guid>
+      <description>
+        
+          &lt;p&gt;After MySQL has done the optimization work, the component that actually executes the SQL statements is the storage engine. Among MySQL&#39;s many engines, InnoDB is currently the default storage engine that we widely use.&lt;/p&gt;
+&lt;p&gt;InnoDB uses a B+Tree structure for its indexes. A B+Tree is particularly efficient when data doesn’t fit in memory and must be read from the disk, as it ensures that a fixed maximum number of reads would be required to access any data requested, based only on the depth of the tree, which scales nicely.&lt;/p&gt;
+&lt;p&gt;Reference: &lt;a href=&#34;https://blog.jcole.us/2013/01/10/btree-index-structures-in-innodb/&#34;&gt;https://blog.jcole.us/2013/01/10/btree-index-structures-in-innodb/&lt;/a&gt;&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
