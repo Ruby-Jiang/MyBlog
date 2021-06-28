@@ -11,4 +11,9 @@ thumbnail = "images/cousin.png"
 
 A fantasy visualization of my dear cousin.
 
-![Clarity Hugo Theme](https://github.com/Ruby-Jiang/myBlog/images/cousin.png))
+<img src="../../images/cousin.gif" width="600" />
+<!-- ![::img-medium](../../images/cousin.gif) -->
+
+Set different layer and frame in Aseprite.
+
+<img src="../../images/asepriteUI.png" width="600" />

@@ -1,5 +1,5 @@
 +++
-title = "My personal technical blogger"
+title = "My personal technical blog"
 description = "My first blog"
 date = "2021-06-15"
 aliases = ["about-me", "contact"]
