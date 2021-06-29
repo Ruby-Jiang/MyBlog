@@ -6,21 +6,8 @@ aliases = ["about-me", "contact"]
 author = "Xi Jiang"
 +++
 
+Hey, welcome to my personal blog. Sometimes people tend to identify the reasons for which actions are performed and what we desire to bring about. For me it's just a sudden impluse that one night my ears hear a word behind me, saying, "This is the way, you're gonna make the coolest game in the world! Walk in it. 😇"
 
-[Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) 
+This blog will mainly be my game logs and updates about the developing process and hopefully the post mortem later. Without the use of blogs for the supervision and review it could be hard to persisit on. I will add some of my jottings and algorithm notes regarding I'm still seeking for a full-time job after graduation.
 
-Hugo makes use of a variety of open source projects including:
-
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Learn more on my [portfolio website](https://ruby-jiang.github.io/myPortfolio/).
