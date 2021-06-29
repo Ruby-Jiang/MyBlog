@@ -22,7 +22,7 @@ This 1-bit style game called adrena-line that made for Ludum Dare 46(Deeper and 
   <img src="../../images/adrena.gif" width="400"/>
 </p>
 
-## Breadth-First Search
+### Breadth-First Search
 
 In BFS, we first explores a graph starting at a node and visits all the node's neighbors, then visits all the neighbors's neighbors and continues in this fashion. In pseudocode, we could present a simple template for the similar problems.
 
@@ -56,7 +56,7 @@ int BFS(Node Node start, Node target){
 }
 {{< /highlight >}}
 
-## Leetcode 490 Discription
+### Leetcode 490 Discription
 
 <p align="center">
   <img src="../../images/maze_1.png" width="400"/>
@@ -110,7 +110,7 @@ class Solution {
 }
 {{< /highlight >}}
 
-## Leetcode 505 Discription
+### Leetcode 505 Discription
 
 >Almost the same as #490 except for return the **shortest distance** for the ball to stop at the destination. If the ball cannot stop at destination, return -1.
 
